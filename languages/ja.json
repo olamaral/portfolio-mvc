@@ -1,0 +1,27 @@
+{
+    "aboutNav": "自己紹介",
+    "skillsNav": "スキル",
+    "portfolioNav": "ポートフォリオ",
+    "contactNav": "連絡先",
+    "name": "パロマ・ケイロス",
+    "title": "3Dアーティスト",
+    "about": "私はスタジオジブリの愛好家です。ブラジル人で、フリーランスをしながら語学学校に通っています。",
+    "location": "現在、日本の東京に拠点を置いています。",
+    "resume": "私の履歴書",
+    "skills": "スキル",
+    "3dmodelling": "3Dモデリング",
+    "texturing": "テクスチャリング",
+    "lightening": "照明",
+    "rendering": "レンダリング",
+    "postProduction": "ポストプロダクション",
+    "animation": "アニメーション",
+    "softwareProfiency": "ソフトウェアの習熟度",
+    "demoReel": "デモリール",
+    "contact": "お問い合わせ",
+    "nameLabel": "名前",
+    "emailLabel": "メール",
+    "messageLabel": "メッセージ",
+    "submitLabel": "送信"
+}
+
+

@@ -1,0 +1,33 @@
+{
+    "aboutNav": "about",
+    "skillsNav": "skills",
+    "portfolioNav": "portfolio",
+    "contactNav": "contact",
+    "name": "Palloma Queiroz",
+    "title": "3D Artist",
+    "about": "I'm a Ghibli Studio lover.Brazilian, going to language school while freelancing.",
+    "location": "Curretly based in Tokyo,Japan.",
+    "resume": "My resume",
+    "skills": "Skills",
+    "3dmodelling": "3d Modelling",
+    "texturing": "Texturing",
+    "lightening":"Lightening",
+    "rendering": "Rendering",
+    "postProduction": "Post Production",
+    "animation": "Animation",
+    "softwareProfiency": "Software Profiency",
+    "demoReel": "Demo Reel",
+    "demoReel2022": "Demo Reel - 2022",
+    "demoReel2022Text": "This demo reel highlights my work in rendering and animation, including contributions to the animated film Celeste (e.g., [specific tasks]) and commercials for Brazilian and international brands like the startup Free Eletrons",
+    "demoReel2020": "Demo Reel - 2020",
+    "demoReel2020Text": "his demo reel highlights my work in rendering and animation",
+    "contact": "Contact Me",
+    "nameLabel": "Name",
+    "emailLabel": "Email",
+    "messageLabel": "Message",
+    "submitLabel": "Submit"
+ 
+}
+
+   
+
